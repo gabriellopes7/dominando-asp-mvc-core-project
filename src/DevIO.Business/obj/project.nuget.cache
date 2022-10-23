@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XSyvz82X7S5wi/pwscJpbfv65JPWS2STeiTynG7rQWQwVJJQbG4/Y1zmpdtSCJLYlt+dtiPRI07K7GwM2Vso/g==",
+  "success": true,
+  "projectFilePath": "D:\\Documentos\\Cursos\\.Net Developer\\Dominando o ASP.NET MVC Core\\MinhaAppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\fluentvalidation\\11.2.0\\fluentvalidation.11.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

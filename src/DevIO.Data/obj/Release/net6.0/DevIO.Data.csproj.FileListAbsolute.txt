@@ -1,0 +1,15 @@
+D:\Documentos\Cursos\.Net Developer\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Data\bin\Release\net6.0\DevIO.Data.deps.json
+D:\Documentos\Cursos\.Net Developer\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Data\bin\Release\net6.0\DevIO.Data.dll
+D:\Documentos\Cursos\.Net Developer\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Data\bin\Release\net6.0\DevIO.Data.pdb
+D:\Documentos\Cursos\.Net Developer\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Data\bin\Release\net6.0\DevIO.Business.dll
+D:\Documentos\Cursos\.Net Developer\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Data\bin\Release\net6.0\DevIO.Business.pdb
+D:\Documentos\Cursos\.Net Developer\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Data\obj\Release\net6.0\DevIO.Data.csproj.AssemblyReference.cache
+D:\Documentos\Cursos\.Net Developer\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Data\obj\Release\net6.0\DevIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Cursos\.Net Developer\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Data\obj\Release\net6.0\DevIO.Data.AssemblyInfoInputs.cache
+D:\Documentos\Cursos\.Net Developer\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Data\obj\Release\net6.0\DevIO.Data.AssemblyInfo.cs
+D:\Documentos\Cursos\.Net Developer\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Data\obj\Release\net6.0\DevIO.Data.csproj.CoreCompileInputs.cache
+D:\Documentos\Cursos\.Net Developer\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Data\obj\Release\net6.0\DevIO.Data.csproj.CopyComplete
+D:\Documentos\Cursos\.Net Developer\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Data\obj\Release\net6.0\DevIO.Data.dll
+D:\Documentos\Cursos\.Net Developer\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Data\obj\Release\net6.0\refint\DevIO.Data.dll
+D:\Documentos\Cursos\.Net Developer\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Data\obj\Release\net6.0\DevIO.Data.pdb
+D:\Documentos\Cursos\.Net Developer\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Data\obj\Release\net6.0\ref\DevIO.Data.dll

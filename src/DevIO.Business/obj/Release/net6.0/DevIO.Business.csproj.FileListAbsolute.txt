@@ -1,0 +1,12 @@
+D:\Documentos\Cursos\.Net Developer\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Business\bin\Release\net6.0\DevIO.Business.deps.json
+D:\Documentos\Cursos\.Net Developer\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Business\bin\Release\net6.0\DevIO.Business.dll
+D:\Documentos\Cursos\.Net Developer\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Business\bin\Release\net6.0\DevIO.Business.pdb
+D:\Documentos\Cursos\.Net Developer\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Business\obj\Release\net6.0\DevIO.Business.csproj.AssemblyReference.cache
+D:\Documentos\Cursos\.Net Developer\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Business\obj\Release\net6.0\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Cursos\.Net Developer\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Business\obj\Release\net6.0\DevIO.Business.AssemblyInfoInputs.cache
+D:\Documentos\Cursos\.Net Developer\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Business\obj\Release\net6.0\DevIO.Business.AssemblyInfo.cs
+D:\Documentos\Cursos\.Net Developer\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Business\obj\Release\net6.0\DevIO.Business.csproj.CoreCompileInputs.cache
+D:\Documentos\Cursos\.Net Developer\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Business\obj\Release\net6.0\DevIO.Business.dll
+D:\Documentos\Cursos\.Net Developer\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Business\obj\Release\net6.0\refint\DevIO.Business.dll
+D:\Documentos\Cursos\.Net Developer\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Business\obj\Release\net6.0\DevIO.Business.pdb
+D:\Documentos\Cursos\.Net Developer\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Business\obj\Release\net6.0\ref\DevIO.Business.dll

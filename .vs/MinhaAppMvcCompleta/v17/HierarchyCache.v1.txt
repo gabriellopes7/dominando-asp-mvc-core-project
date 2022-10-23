@@ -1,0 +1,514 @@
+﻿++Solution 'MinhaAppMvcCompleta' ‎(3 of 3 projects)
+i:{00000000-0000-0000-0000-000000000000}:MinhaAppMvcCompleta.sln
+++DevIO.Business
+i:{00000000-0000-0000-0000-000000000000}:DevIO.Business
+i:{cd2b4143-b8af-491c-abf2-db827cee9fcb}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.business\bin\debug\net6.0\devio.business.dll
+++Dependencies
+i:{67fca95a-102b-43e8-853f-1d8d9457513f}:>1311
+i:{cd2b4143-b8af-491c-abf2-db827cee9fcb}:>1310
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:>1312
+++Interfaces
+i:{67fca95a-102b-43e8-853f-1d8d9457513f}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.business\interfaces\
+++IEnderecoRepository.cs
+i:{67fca95a-102b-43e8-853f-1d8d9457513f}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.business\interfaces\ienderecorepository.cs
+++IFornecedorRepository.cs
+i:{67fca95a-102b-43e8-853f-1d8d9457513f}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.business\interfaces\ifornecedorrepository.cs
+++IFornecedorService.cs
+i:{67fca95a-102b-43e8-853f-1d8d9457513f}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.business\interfaces\ifornecedorservice.cs
+++INotificador.cs
+i:{67fca95a-102b-43e8-853f-1d8d9457513f}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.business\interfaces\inotificador.cs
+++IProdutoRepository.cs
+i:{67fca95a-102b-43e8-853f-1d8d9457513f}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.business\interfaces\iprodutorepository.cs
+++IProdutoService.cs
+i:{67fca95a-102b-43e8-853f-1d8d9457513f}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.business\interfaces\iprodutoservice.cs
+++IRepository.cs
+i:{67fca95a-102b-43e8-853f-1d8d9457513f}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.business\interfaces\irepository.cs
+++Models
+i:{67fca95a-102b-43e8-853f-1d8d9457513f}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.business\models\
+++Endereco.cs
+i:{67fca95a-102b-43e8-853f-1d8d9457513f}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.business\models\endereco.cs
+++Entity.cs
+i:{67fca95a-102b-43e8-853f-1d8d9457513f}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.business\models\entity.cs
+++Fornecedor.cs
+i:{67fca95a-102b-43e8-853f-1d8d9457513f}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.business\models\fornecedor.cs
+++Produto.cs
+i:{67fca95a-102b-43e8-853f-1d8d9457513f}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.business\models\produto.cs
+++TipoFornecedor.cs
+i:{67fca95a-102b-43e8-853f-1d8d9457513f}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.business\models\tipofornecedor.cs
+++Notifications
+i:{67fca95a-102b-43e8-853f-1d8d9457513f}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.business\notifications\
+++Notificacao.cs
+i:{67fca95a-102b-43e8-853f-1d8d9457513f}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.business\notifications\notificacao.cs
+++Notificador.cs
+i:{67fca95a-102b-43e8-853f-1d8d9457513f}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.business\notifications\notificador.cs
+++Services
+i:{67fca95a-102b-43e8-853f-1d8d9457513f}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.business\services\
+++BaseService.cs
+i:{67fca95a-102b-43e8-853f-1d8d9457513f}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.business\services\baseservice.cs
+++FornecedorService.cs
+i:{67fca95a-102b-43e8-853f-1d8d9457513f}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.business\services\fornecedorservice.cs
+++ProdutoService.cs
+i:{67fca95a-102b-43e8-853f-1d8d9457513f}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.business\services\produtoservice.cs
+++Validations
+i:{67fca95a-102b-43e8-853f-1d8d9457513f}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.business\validations\
+++Documentos
+i:{67fca95a-102b-43e8-853f-1d8d9457513f}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.business\validations\documentos\
+++ValidacaoDocs.cs
+i:{67fca95a-102b-43e8-853f-1d8d9457513f}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.business\validations\documentos\validacaodocs.cs
+++EnderecoValidation.cs
+i:{67fca95a-102b-43e8-853f-1d8d9457513f}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.business\validations\enderecovalidation.cs
+++FornecedorValidation.cs
+i:{67fca95a-102b-43e8-853f-1d8d9457513f}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.business\validations\fornecedorvalidation.cs
+++ProdutoValidation.cs
+i:{67fca95a-102b-43e8-853f-1d8d9457513f}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.business\validations\produtovalidation.cs
+++Analyzers
+i:{67fca95a-102b-43e8-853f-1d8d9457513f}:analyzers
+i:{cd2b4143-b8af-491c-abf2-db827cee9fcb}:analyzers
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:analyzers
+++Frameworks
+i:{67fca95a-102b-43e8-853f-1d8d9457513f}:frameworks
+i:{cd2b4143-b8af-491c-abf2-db827cee9fcb}:frameworks
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:frameworks
+++Packages
+i:{67fca95a-102b-43e8-853f-1d8d9457513f}:packages
+i:{cd2b4143-b8af-491c-abf2-db827cee9fcb}:packages
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:packages
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{67fca95a-102b-43e8-853f-1d8d9457513f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{cd2b4143-b8af-491c-abf2-db827cee9fcb}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{67fca95a-102b-43e8-853f-1d8d9457513f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{cd2b4143-b8af-491c-abf2-db827cee9fcb}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++System.Text.Json.SourceGeneration
+i:{67fca95a-102b-43e8-853f-1d8d9457513f}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{cd2b4143-b8af-491c-abf2-db827cee9fcb}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{67fca95a-102b-43e8-853f-1d8d9457513f}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.business\microsoft.netcore.app
+i:{cd2b4143-b8af-491c-abf2-db827cee9fcb}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.data\microsoft.netcore.app
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\microsoft.netcore.app
+++FluentValidation (11.2.0)
+i:{67fca95a-102b-43e8-853f-1d8d9457513f}:>1380
+++DevIO.Data
+i:{00000000-0000-0000-0000-000000000000}:DevIO.Data
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.data\bin\debug\net6.0\devio.data.dll
+++Context
+i:{cd2b4143-b8af-491c-abf2-db827cee9fcb}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.data\context\
+++Mappings
+i:{cd2b4143-b8af-491c-abf2-db827cee9fcb}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.data\mappings\
+++Migrations
+i:{cd2b4143-b8af-491c-abf2-db827cee9fcb}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.data\migrations\
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\data\migrations\
+++Repository
+i:{cd2b4143-b8af-491c-abf2-db827cee9fcb}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.data\repository\
+++EnderecoRepository.cs
+i:{cd2b4143-b8af-491c-abf2-db827cee9fcb}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.data\repository\enderecorepository.cs
+++FornecedorRepository.cs
+i:{cd2b4143-b8af-491c-abf2-db827cee9fcb}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.data\repository\fornecedorrepository.cs
+++ProdutoRepository.cs
+i:{cd2b4143-b8af-491c-abf2-db827cee9fcb}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.data\repository\produtorepository.cs
+++Repository.cs
+i:{cd2b4143-b8af-491c-abf2-db827cee9fcb}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.data\repository\repository.cs
+++Projects
+i:{cd2b4143-b8af-491c-abf2-db827cee9fcb}:projects
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:projects
+++MeuDbContext.cs
+i:{cd2b4143-b8af-491c-abf2-db827cee9fcb}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.data\context\meudbcontext.cs
+++EnderecoMapping.cs
+i:{cd2b4143-b8af-491c-abf2-db827cee9fcb}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.data\mappings\enderecomapping.cs
+++FornecedorMapping.cs
+i:{cd2b4143-b8af-491c-abf2-db827cee9fcb}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.data\mappings\fornecedormapping.cs
+++ProdutoMapping.cs
+i:{cd2b4143-b8af-491c-abf2-db827cee9fcb}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.data\mappings\produtomapping.cs
+++20220731182346_Initial.cs
+i:{cd2b4143-b8af-491c-abf2-db827cee9fcb}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.data\migrations\20220731182346_initial.cs
+++MeuDbContextModelSnapshot.cs
+i:{cd2b4143-b8af-491c-abf2-db827cee9fcb}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.data\migrations\meudbcontextmodelsnapshot.cs
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{cd2b4143-b8af-491c-abf2-db827cee9fcb}:c:\users\gabri\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.7\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:c:\users\gabri\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.7\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{cd2b4143-b8af-491c-abf2-db827cee9fcb}:c:\users\gabri\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.EntityFrameworkCore (6.0.7)
+i:{cd2b4143-b8af-491c-abf2-db827cee9fcb}:>1330
+++Microsoft.EntityFrameworkCore.Relational (6.0.7)
+i:{cd2b4143-b8af-491c-abf2-db827cee9fcb}:>1332
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.7)
+i:{cd2b4143-b8af-491c-abf2-db827cee9fcb}:>1331
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:>1355
+++20220731182346_Initial.Designer.cs
+i:{cd2b4143-b8af-491c-abf2-db827cee9fcb}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.data\migrations\20220731182346_initial.designer.cs
+++DevIO.App
+i:{00000000-0000-0000-0000-000000000000}:DevIO.App
+++Connected Services 
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:>1313
+++Properties
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\properties\
+++launchSettings.json
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\properties\launchsettings.json
+++serviceDependencies.json
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\properties\servicedependencies.json
+++wwwroot
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\
+++Areas
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\areas\
+++AutoMapper
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\automapper\
+++AutoMapperConfig.cs
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\automapper\automapperconfig.cs
+++Configurations
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\configurations\
+++DependencyInjectionConfig.cs
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\configurations\dependencyinjectionconfig.cs
+++GlobalizationConfig.cs
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\configurations\globalizationconfig.cs
+++IdentityConfig.cs
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\configurations\identityconfig.cs
+++MvcConfig.cs
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\configurations\mvcconfig.cs
+++Controllers
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\controllers\
+++BaseController.cs
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\controllers\basecontroller.cs
+++FornecedoresController.cs
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\controllers\fornecedorescontroller.cs
+++HomeController.cs
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\controllers\homecontroller.cs
+++ProdutosController.cs
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\controllers\produtoscontroller.cs
+++Data
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\data\
+++ApplicationDbContext.cs
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\data\applicationdbcontext.cs
+++Extensions
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\extensions\
+++EmailTagHelper.cs
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\extensions\emailtaghelper.cs
+++MoedaAttribute.cs
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\extensions\moedaattribute.cs
+++RazorExtensions.cs
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\extensions\razorextensions.cs
+++SummaryViewComponent.cs
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\extensions\summaryviewcomponent.cs
+++ViewModels
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\viewmodels\
+++EnderecoViewModel.cs
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\viewmodels\enderecoviewmodel.cs
+++ErrorViewModel.cs
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\viewmodels\errorviewmodel.cs
+++FornecedorViewModel.cs
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\viewmodels\fornecedorviewmodel.cs
+++ProdutoViewModel.cs
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\viewmodels\produtoviewmodel.cs
+++Views
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\views\
+++Fornecedores
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\views\fornecedores\
+++_AtualizarEndereco.cshtml
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\views\fornecedores\_atualizarendereco.cshtml
+++_DetalhesEndereco.cshtml
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\views\fornecedores\_detalhesendereco.cshtml
+++_Endereco.cshtml
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\views\fornecedores\_endereco.cshtml
+++Create.cshtml
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\views\fornecedores\create.cshtml
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\views\produtos\create.cshtml
+++Delete.cshtml
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\views\fornecedores\delete.cshtml
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\views\produtos\delete.cshtml
+++Details.cshtml
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\views\fornecedores\details.cshtml
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\views\produtos\details.cshtml
+++Edit.cshtml
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\views\fornecedores\edit.cshtml
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\views\produtos\edit.cshtml
+++Index.cshtml
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\views\fornecedores\index.cshtml
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\views\home\index.cshtml
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\views\produtos\index.cshtml
+++Home
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\views\home\
+++Produtos
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\views\produtos\
+++Shared
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\views\shared\
+++Components
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\views\shared\components\
+++Summary
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\views\shared\components\summary\
+++Default.cshtml
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\views\shared\components\summary\default.cshtml
+++_Layout.cshtml
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\views\shared\_layout.cshtml
+++_LoginPartial.cshtml
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\views\shared\_loginpartial.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\views\_viewstart.cshtml
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\areas\identity\pages\_viewstart.cshtml
+++appsettings.json
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\appsettings.json
+++libman.json
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\libman.json
+++Program.cs
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\program.cs
+++SQL Server Express LocalDB (Local) (ConnectionStrings:DefaultConnection)
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:>1366
+++serviceDependencies.local.json
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\properties\servicedependencies.local.json
+++css
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\css\
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\font-awesome\css\
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\css\
+++imagens
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\imagens\
+++js
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\js\
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\
+++favicon.ico
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\favicon.ico
+++Identity
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\areas\identity\
+++00000000000000_CreateIdentitySchema.cs
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\data\migrations\00000000000000_createidentityschema.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\data\migrations\applicationdbcontextmodelsnapshot.cs
+++Privacy.cshtml
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\views\home\privacy.cshtml
+++_ListaProdutos.cshtml
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\views\produtos\_listaprodutos.cshtml
+++_Layout.cshtml.css
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\views\shared\_layout.cshtml.css
+++appsettings.Development.json
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\appsettings.development.json
+++appsettings.Production.json
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\appsettings.production.json
+++appsettings.Staging.json
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\appsettings.staging.json
+++MessagePackAnalyzer
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:c:\users\gabri\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:c:\users\gabri\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:c:\users\gabri\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\microsoft.aspnetcore.app
+++AutoMapper (11.0.1)
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:>1360
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:>1356
+++Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore (6.0.7)
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:>1358
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.7)
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:>1359
+++Microsoft.AspNetCore.Identity.UI (6.0.7)
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:>1363
+++Microsoft.EntityFrameworkCore.Tools (6.0.7)
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:>1361
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.8)
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:>1409
+++Swashbuckle.AspNetCore (6.3.0)
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:>1357
+++site.css
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\css\site.css
+++178f6de1-a938-4852-88e1-d80b7853e4b1_1969270_585132168242153_323178533_n.jpg
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\imagens\178f6de1-a938-4852-88e1-d80b7853e4b1_1969270_585132168242153_323178533_n.jpg
+++556bc8c2-2907-4cac-a2b4-17dd9d6bff52_94678932_3436435173035351_2154725628580986880_n.jpg
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\imagens\556bc8c2-2907-4cac-a2b4-17dd9d6bff52_94678932_3436435173035351_2154725628580986880_n.jpg
+++666f6200-430d-4bdc-9984-aa1b30b5424e_1969270_585132168242153_323178533_n.jpg
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\imagens\666f6200-430d-4bdc-9984-aa1b30b5424e_1969270_585132168242153_323178533_n.jpg
+++b015592b-fee5-41f4-93ba-7fe9ea4bb3e2_1969270_585132168242153_323178533_n.jpg
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\imagens\b015592b-fee5-41f4-93ba-7fe9ea4bb3e2_1969270_585132168242153_323178533_n.jpg
+++bdf56cce-9fdd-4e3a-8a3a-9a78f8d197e7_1969270_585132168242153_323178533_n.jpg
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\imagens\bdf56cce-9fdd-4e3a-8a3a-9a78f8d197e7_1969270_585132168242153_323178533_n.jpg
+++c365991b-ff43-44af-83cc-92bf344cd2fc_image (1).png
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\imagens\c365991b-ff43-44af-83cc-92bf344cd2fc_image (1).png
+++e3f5d1f6-9651-4eb1-900a-0e168a70ed8a_10378192_830156470406387_7491324506817757035_n.jpg
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\imagens\e3f5d1f6-9651-4eb1-900a-0e168a70ed8a_10378192_830156470406387_7491324506817757035_n.jpg
+++e5d88b08-c4cc-4b5a-a2bd-0c4d317209be_12066025_877920175630016_8102014817496638066_n.jpg
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\imagens\e5d88b08-c4cc-4b5a-a2bd-0c4d317209be_12066025_877920175630016_8102014817496638066_n.jpg
+++edb4c840-0df8-4e67-97a4-cef97649a666_16831148_1225966790825351_7390485473335996634_n.jpg
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\imagens\edb4c840-0df8-4e67-97a4-cef97649a666_16831148_1225966790825351_7390485473335996634_n.jpg
+++site.js
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\js\site.js
+++bootstrap
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\
+++font-awesome
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\font-awesome\
+++jquery
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\jquery\
+++jquery-validation
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\jquery-validation-unobtrusive\
+++Pages
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\areas\identity\pages\
+++00000000000000_CreateIdentitySchema.Designer.cs
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\data\migrations\00000000000000_createidentityschema.designer.cs
+++dist
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\jquery\dist\
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\license
+++webfonts
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\font-awesome\webfonts\
+++LICENSE.txt
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\jquery\license.txt
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++all.min.css
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\font-awesome\css\all.min.css
+++fa-brands-400.ttf
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\font-awesome\webfonts\fa-brands-400.ttf
+++fa-brands-400.woff2
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\font-awesome\webfonts\fa-brands-400.woff2
+++fa-regular-400.ttf
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\font-awesome\webfonts\fa-regular-400.ttf
+++fa-regular-400.woff2
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\font-awesome\webfonts\fa-regular-400.woff2
+++fa-solid-900.ttf
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\font-awesome\webfonts\fa-solid-900.ttf
+++fa-solid-900.woff2
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\font-awesome\webfonts\fa-solid-900.woff2
+++fa-v4compatibility.ttf
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\font-awesome\webfonts\fa-v4compatibility.ttf
+++fa-v4compatibility.woff2
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\font-awesome\webfonts\fa-v4compatibility.woff2
+++jquery.js
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++9d1f9494-8fab-4367-b7ad-c4a22aa99519_12066025_877920175630016_8102014817496638066_n.jpg
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\imagens\9d1f9494-8fab-4367-b7ad-c4a22aa99519_12066025_877920175630016_8102014817496638066_n.jpg
+++584d7c7b-2246-4d08-bc2c-b995d076a916_16831148_1225966790825351_7390485473335996634_n.jpg
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\imagens\584d7c7b-2246-4d08-bc2c-b995d076a916_16831148_1225966790825351_7390485473335996634_n.jpg
+++40272f9e-a4ff-4638-938c-15f769296713_1969270_585132168242153_323178533_n.jpg
+i:{fcafe488-fbdc-4f4c-97b3-3965f4cf923c}:d:\documentos\cursos\.net developer\dominando o asp.net mvc core\minhaappmvccompleta\src\devio.app\wwwroot\imagens\40272f9e-a4ff-4638-938c-15f769296713_1969270_585132168242153_323178533_n.jpg

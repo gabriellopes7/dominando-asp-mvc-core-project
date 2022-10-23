@@ -1,0 +1,55 @@
+﻿@model IEnumerable<DevIO.App.ViewModels.ProdutoViewModel>
+
+
+<table class="table table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>
+                Imagem
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fornecedor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Valor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ativo)
+            </th>
+            
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                <img src="~/imagens/@item.Imagem" style="width: 70px; height:100px" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fornecedor.Nome)
+            </td>
+            <td>
+                @*Exibir conforme a cultura da aplicação*@
+                @item.Valor.ToString("C")
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ativo)
+            </td>
+            
+            <td class="text-right">
+                
+                <a class= "btn btn-info" asp-controller="Produtos" asp-action="Details" asp-route-id="@item.Id"><spam class="fa fa-search"></spam></a>
+                <a class="btn btn-warning" disable-by-claim-name="Produto" disable-by-claim-value="Editar" asp-controller="Produtos" asp-action="Edit" asp-route-id="@item.Id"><spam class="fa fa-pencil-alt"></spam></a>
+                <a class= "btn btn-danger" suppress-by-claim-name="Produto" suppress-by-claim-value="Excluir" asp-controller="Produtos" asp-action="Delete" asp-route-id="@item.Id"><spam class="fa fa-trash"></spam></a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
